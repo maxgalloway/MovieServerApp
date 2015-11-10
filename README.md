@@ -14,7 +14,7 @@ to run this application, you will need:
 
 ## setup
 
-Open the terminal, `cd` to this directory, and run `composer install`
+Open the terminal, `cd` to this directory, and run `composer install` if you put composer in your path, or run `php composer.phar install` if you just have the phar downloaded to this directory.
 
 This can take a couple minutes. When it's done, there will be a new folder in this directory called "vendor"
 
